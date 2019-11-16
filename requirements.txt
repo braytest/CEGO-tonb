@@ -1,2 +1,1 @@
 numpy
-git+git://github.com/usnistgov/CEGO.git
